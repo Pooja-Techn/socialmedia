@@ -1,0 +1,16 @@
+.register_page
+{
+    left: 50%;
+    position: absolute;
+    top: 55%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.registerpage_container
+{
+    display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        padding: 1rem;
+        width: 20rem;
+}
